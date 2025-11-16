@@ -1,6 +1,7 @@
 # file-split
 Tugas membuat program file split
 
+  yaitu :
 1. Buat program Java yang membaca sebuah file teks.
 2. Kemudian memotong file tersebut menjadi beberapa bagian sesuai input dari pengguna.
 3. Gunakan struktur data Queue di dalam proses pemotongan file tersebut.
